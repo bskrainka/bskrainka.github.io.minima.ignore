@@ -1,18 +1,8 @@
 ---
 layout: page
-title: About
+title: About: Benjamin S. Skrainka
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Benjamin S. Skrainka is a computational economist who has been a data scientist since long before there were data scientists.  He has worked on diverse problems which involve computation, data, and theory, such as estimating demand for differentiated products, forecasting, pricing, quantum cosmology, bioinformatics, and more. Currently, a principal data scientist at Convoy, Ben uses good judgment, humor, data, and math to help build their digital freight marketplace. His academic background includes an A.B. in Physics from Princeton, a MSc and PhD in Economics from UCL, and postdoctoral research at the University of Chicago.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
