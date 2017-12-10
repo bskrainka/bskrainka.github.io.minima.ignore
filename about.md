@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About: Benjamin S. Skrainka
+title: About
 permalink: /about/
 ---
 
